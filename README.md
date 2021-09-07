@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gokulkrishna14
+- 👋 Hi, I’m Gokulkrishna
 - 👀 I’m interested in Java, Python, Machine Learning , Mysql
 - 🌱 I’m currently learning Data Structures and Algoritm and Machine Learning
 - 💞️ I’m looking to collaborate on Open source Projects and also want to make contributions to your projects
